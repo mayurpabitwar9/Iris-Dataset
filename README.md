@@ -11,3 +11,5 @@ This is perhaps the best known database to be found in the pattern recognition l
 -- Iris Setosa
 -- Iris Versicolour
 -- Iris Virginica
+
+Above notebook will describe you the visualization and modul fitting on the IRIS dataset.
